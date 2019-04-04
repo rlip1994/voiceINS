@@ -1,0 +1,19 @@
+{
+  "F2":{
+    "question":"I am going to read to you a series of 10 letters. Whenever you hear the letter ‘A,’ squeeze my hand.",
+    "letters":"SAVEAHAART",
+    "wrong": 2
+  },
+
+  "F4":{
+    "questions":["las piedras flotan en el agua", "hay peces en el mar", "un kilo pesa mas que dos kilos", "se puede usar un martillo para clavar"],
+    "commands":["levante esta cantidad de dedos", "ahora haga lo mismocon la otra mano"],
+    "answer":[false,true,false,true]
+
+  }
+
+
+
+
+
+}
